@@ -1,0 +1,887 @@
+1483982611603	geckodriver	INFO	Listening on 127.0.0.1:52637
+1483982612601	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.X6xYr7KRcfIF
+1483982612602	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483982612603	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33657
+1483982962561	geckodriver	INFO	Listening on 127.0.0.1:47069
+1483982963561	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.o9fQ6SUmz4Or
+1483982963562	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483982963563	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44234
+1483982964364	Marionette	INFO	Listening on port 44234
+
+(firefox:26876): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26876): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26876): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26876): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26876): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26876): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26876): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:26876): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7fbc98457dd0' of type 'MaiAtkType13b'
+1483983035768	geckodriver	INFO	Listening on 127.0.0.1:49628
+1483983036768	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Zjgfbf0lSk05
+1483983036769	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483983036771	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36820
+1483983038060	Marionette	INFO	Listening on port 36820
+
+(firefox:27046): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27046): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27046): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27046): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27046): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27046): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27046): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27046): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f4540c820b0' of type 'MaiAtkType13b'
+
+(firefox:27046): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f454bc42790' of type 'MaiAtkType13b'
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1483991517947	geckodriver	INFO	Listening on 127.0.0.1:49711
+1483991518947	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lxSmAncQQjum
+1483991518948	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483991518949	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32791
+1483991520021	Marionette	INFO	Listening on port 32791
+
+(firefox:30682): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30682): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30682): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30682): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30682): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30682): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30682): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30682): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7fea95b121a0' of type 'MaiAtkType13b'
+1483991584760	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483991586216	geckodriver	INFO	Listening on 127.0.0.1:51688
+1483991587215	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uY0WUPsCZWZp
+1483991587215	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483991587217	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40127
+1483991588012	Marionette	INFO	Listening on port 40127
+
+(firefox:30858): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30858): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30858): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30858): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30858): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30858): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30858): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:30858): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7fab92092d80' of type 'MaiAtkType13b'
+
+(firefox:30858): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7fab9284d470' of type 'MaiAtkType13b'
+[Child 30920] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 30920] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 30920] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 30920] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 30920] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 30920] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 30920] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 30920] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 30920] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 30920] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+1483991801345	geckodriver	INFO	Listening on 127.0.0.1:49117
+1483991802344	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7dwXcwMXudyX
+1483991802344	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483991802346	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44404
+1483991803152	Marionette	INFO	Listening on port 44404
+
+(firefox:31019): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31019): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31019): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31019): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31019): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31019): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31019): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://vars.hotjar.com/rcj-2e6153f931e5c8a79f89c0c503e3c25e.html, line 65: Error: Unknown action: undefined
+
+(firefox:31019): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f1c38da2bf0' of type 'MaiAtkType13b'
+1483992238209	geckodriver	INFO	Listening on 127.0.0.1:33205
+1483992239208	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.U8Es2FuWbmih
+1483992239209	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483992239212	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39820
+1483992240179	Marionette	INFO	Listening on port 39820
+
+(firefox:31321): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31321): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31321): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31321): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31321): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31321): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31321): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31321): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7eff3d0826a0' of type 'MaiAtkType13b'
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1483992307878	geckodriver	INFO	Listening on 127.0.0.1:35303
+1483992308877	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DRcMB2QkEObI
+1483992308879	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483992308881	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34085
+1483992309689	Marionette	INFO	Listening on port 34085
+
+(firefox:31471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:31471): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7fb0e60a7330' of type 'MaiAtkType13b'
+
+(firefox:31471): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7fb0e60910b0' of type 'MaiAtkType13b'
+1484051567823	geckodriver	INFO	Listening on 127.0.0.1:58530
+1484051802405	geckodriver	INFO	Listening on 127.0.0.1:43096
+1484051803416	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pqh3phukMNWC
+1484051803418	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484051803430	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43628
+1484051807891	Marionette	INFO	Listening on port 43628
+
+(firefox:8961): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8961): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8961): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8961): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8961): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8961): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8961): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://www.spoj.com/, line 58: TypeError: $(...).popover is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+1484051899128	geckodriver	INFO	Listening on 127.0.0.1:39457
+1484051900128	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ZwFaKWYlXHB3
+1484051900130	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484051900135	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33235
+1484051900854	Marionette	INFO	Listening on port 33235
+
+(firefox:9185): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9185): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9185): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9185): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9185): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9185): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9185): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://www.spoj.com/, line 58: TypeError: $(...).popover is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+
+(firefox:9185): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7fb1a49f0880' of type 'MaiAtkType13b'
+
+(firefox:9185): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7fb1a49f0880' of type 'MaiAtkType13b'
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1484052092601	geckodriver	INFO	Listening on 127.0.0.1:41303
+1484052093602	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.iBjHmGnMDVqi
+1484052093604	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484052093609	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44504
+1484052094390	Marionette	INFO	Listening on port 44504
+
+(firefox:9489): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9489): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9489): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9489): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9489): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9489): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9489): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://www.spoj.com/, line 58: TypeError: $(...).popover is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+
+(firefox:9489): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2eef403c40' of type 'MaiAtkType13b'
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1484052242540	geckodriver	INFO	Listening on 127.0.0.1:58365
+1484052243542	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4ptG8yVuuEDP
+1484052243543	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484052243548	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41869
+1484052244304	Marionette	INFO	Listening on port 41869
+
+(firefox:9824): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9824): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9824): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9824): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9824): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9824): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9824): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://www.spoj.com/, line 58: TypeError: $(...).popover is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+
+(firefox:9824): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7ff67653c150' of type 'MaiAtkType13b'
+
+(firefox:9824): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff67653c150' of type 'MaiAtkType13b'
+1484052312400	geckodriver	INFO	Listening on 127.0.0.1:60425
+1484052313400	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.J5RJ5iJ4Nn7U
+1484052313401	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484052313403	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40039
+1484052314166	Marionette	INFO	Listening on port 40039
+
+(firefox:10027): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10027): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10027): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10027): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10027): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10027): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10027): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://www.spoj.com/, line 58: TypeError: $(...).popover is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+
+(firefox:10027): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f3b08bd9920' of type 'MaiAtkType13b'
+
+(firefox:10027): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f3b00cf9600' of type 'MaiAtkType13b'
+1484052751854	geckodriver	INFO	Listening on 127.0.0.1:49775
+1484052752854	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HvpcJgVAd6Yy
+1484052752855	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484052752857	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38204
+1484052753632	Marionette	INFO	Listening on port 38204
+
+(firefox:10706): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10706): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10706): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10706): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10706): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10706): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10706): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10706): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f18ae0f9560' of type 'MaiAtkType13b'
+
+(firefox:10706): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f18b819e470' of type 'MaiAtkType13b'
+1484052874903	geckodriver	INFO	Listening on 127.0.0.1:50157
+1484052875902	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pW03e9a8pWrX
+1484052875902	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484052875904	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40207
+1484052876692	Marionette	INFO	Listening on port 40207
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://www.spoj.com/, line 58: TypeError: $(...).popover is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+
+(firefox:10967): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7fad2dc62d30' of type 'MaiAtkType13b'
+
+(firefox:10967): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7fad33f31b50' of type 'MaiAtkType13b'
+
+(firefox:10967): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7fad20f10240' of type 'MaiAtkType139'
+
+(firefox:10967): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7fad2d063970' of type 'MaiAtkType13b'
+1484053146172	geckodriver	INFO	Listening on 127.0.0.1:42264
+1484053147172	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0pGR1Vm9eJVj
+1484053147173	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484053147175	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34144
+1484053147986	Marionette	INFO	Listening on port 34144
+
+(firefox:11418): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11418): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11418): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11418): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11418): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11418): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11418): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11418): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f55953449c0' of type 'MaiAtkType13b'
+
+(firefox:11418): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f5598c197e0' of type 'MaiAtkType13b'
+1484053253034	geckodriver	INFO	Listening on 127.0.0.1:39553
+1484053254033	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.huo7KAKcwJ2L
+1484053254034	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484053254036	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41837
+1484053254829	Marionette	INFO	Listening on port 41837
+
+(firefox:11667): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11667): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11667): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11667): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11667): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11667): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11667): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://www.spoj.com/, line 58: TypeError: $(...).popover is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+
+(firefox:11667): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f211246b880' of type 'MaiAtkType13b'
+
+(firefox:11667): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2108702ba0' of type 'MaiAtkType13b'
+
+(firefox:11667): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f2108702ba0' of type 'MaiAtkType13b'
+1484053365101	geckodriver	INFO	Listening on 127.0.0.1:58660
+1484053366101	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KgUGxdFrxDji
+1484053366101	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484053366103	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40377
+1484053366921	Marionette	INFO	Listening on port 40377
+
+(firefox:11910): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11910): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11910): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11910): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11910): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11910): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11910): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://www.spoj.com/, line 58: TypeError: $(...).popover is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+
+(firefox:11910): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7fbf05d595b0' of type 'MaiAtkType13b'
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+1484053475027	geckodriver	INFO	Listening on 127.0.0.1:46161
+1484053476025	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NctZ0wUzT1HM
+1484053476026	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484053476028	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34986
+1484053476824	Marionette	INFO	Listening on port 34986
+
+(firefox:12150): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12150): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12150): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12150): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12150): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12150): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12150): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://www.spoj.com/, line 58: TypeError: $(...).popover is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+
+(firefox:12150): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f184eac8920' of type 'MaiAtkType13b'
+
+(firefox:12150): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f185575be70' of type 'MaiAtkType13b'
+1484053697579	geckodriver	INFO	Listening on 127.0.0.1:46363
+1484053698578	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.J60mjsYpCJ8l
+1484053698580	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484053698585	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42482
+1484053699371	Marionette	INFO	Listening on port 42482
+
+(firefox:12554): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12554): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12554): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12554): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12554): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12554): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12554): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: http://www.spoj.com/, line 58: TypeError: $(...).popover is not a function
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259c3fd290' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a14de060' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4529560' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a455af10' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4408100' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a42ddec0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259fccae70' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4e29100' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25b411b560' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259ce81a10' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259c4c21f0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4f0cb00' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4cb2b50' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a44494c0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a46e3e70' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4893100' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2597cf7f60' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a8ce3290' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25ae694dd0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259c4c2a10' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a321e6f0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4673ce0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a424d150' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2597ae2dd0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259cd03470' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25963c09c0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4449060' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2596a2a2e0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2596a2a510' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a3eb5f10' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4e296f0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a3ebc470' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4529470' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a32ec560' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a5094970' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a30cf5b0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a2f150b0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259c3fd510' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259cd037e0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2595978ba0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a2eb5fb0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4876240' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a321e600' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4fcb1f0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25b0afe5b0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25978dd600' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25b42d9bf0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2595978470' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2596042470' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25959789c0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259ce811f0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2596042240' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a44dfd80' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a45bc880' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259687bb00' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4673ab0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a30e0e70' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a2f15c40' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259668b510' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2596042f10' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a32f2290' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2597854a10' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259789d5b0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a4496d80' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a424d470' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a44dfb50' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a8bf0060' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a42ca100' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a3ebc2e0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2597cf7600' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a32f2060' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a426ba10' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f2597854a60' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259c355fb0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a481c8d0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259fab80b0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a2e5bba0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a420e650' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f259fccaa10' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25978478d0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a30cf970' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a2e5ba10' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a2f156f0' of type 'MaiAtkType13b'
+
+(firefox:12554): GLib-GObject-WARNING **: /build/glib2.0-t9oPgV/glib2.0-2.48.0/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f25a32f23d0' of type 'MaiAtkType13b'
